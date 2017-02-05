@@ -1,0 +1,38 @@
+h1 {
+  text-align: Center;
+  color: darkblue;
+}
+
+#Mark {
+  weight: 70;
+  height: 70;
+}
+
+#query {
+  width: 50%;
+}
+
+.result {
+  position:absolute;
+  left:500px;
+  top:150px;
+  width:400px;
+}
+
+table {
+  border: 1;
+  width: 100%;
+}
+
+table tr {
+  height: 50px;
+}
+
+#pic {
+  width: 30%;
+}
+
+#title {
+  width: 70%;
+}
+
